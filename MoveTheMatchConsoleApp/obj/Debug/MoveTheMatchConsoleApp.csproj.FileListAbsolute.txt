@@ -1,0 +1,9 @@
+D:\@Office\Visual Studio 2015\ConsoleAppToMoveMatchedFilesBetweenTwoFolders\ConsoleAppToMoveMatchedFilesBetweenTwoFolders\bin\Debug\ConsoleAppToMoveMatchedFilesBetweenTwoFolders.exe.config
+D:\@Office\Visual Studio 2015\ConsoleAppToMoveMatchedFilesBetweenTwoFolders\ConsoleAppToMoveMatchedFilesBetweenTwoFolders\obj\Debug\ConsoleAppToMoveMatchedFilesBetweenTwoFolders.exe
+D:\@Office\Visual Studio 2015\ConsoleAppToMoveMatchedFilesBetweenTwoFolders\ConsoleAppToMoveMatchedFilesBetweenTwoFolders\obj\Debug\ConsoleAppToMoveMatchedFilesBetweenTwoFolders.pdb
+C:\Users\aasish.sharma\Source\Repos\MoveTheMatch\MoveTheMatchConsoleApp\bin\Debug\ConsoleAppToMoveMatchedFilesBetweenTwoFolders.exe.config
+C:\Users\aasish.sharma\Source\Repos\MoveTheMatch\MoveTheMatchConsoleApp\obj\Debug\ConsoleAppToMoveMatchedFilesBetweenTwoFolders.exe
+C:\Users\aasish.sharma\Source\Repos\MoveTheMatch\MoveTheMatchConsoleApp\obj\Debug\ConsoleAppToMoveMatchedFilesBetweenTwoFolders.pdb
+C:\Users\aasish.sharma\Source\Repos\MoveTheMatch\MoveTheMatchConsoleApp\bin\Debug\ConsoleAppToMoveMatchedFilesBetweenTwoFolders.exe
+C:\Users\aasish.sharma\Source\Repos\MoveTheMatch\MoveTheMatchConsoleApp\bin\Debug\ConsoleAppToMoveMatchedFilesBetweenTwoFolders.pdb
+C:\Users\aasish.sharma\Source\Repos\MoveTheMatch\MoveTheMatchConsoleApp\obj\Debug\MoveTheMatchConsoleApp.csprojResolveAssemblyReference.cache
