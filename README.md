@@ -8,8 +8,8 @@ The movement of files will be from source folder into new folder with matched fi
 
 Input details required:
 1. Source folder path
-2. Destination folder path
-3. Folder path to store matched files.
+2. Target folder path
+3. Destination folder path to store matched files.
 
 Currently, the program only moves the matched files from the specified folder into another folder with matched files 
 which can be further enhanced for nested folders as well.
